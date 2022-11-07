@@ -158,23 +158,3 @@ initialize();
 
 
 
-
-
-//const url = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
-
-// data promise
-
-//let promise = d3.json(url);
-//console.log(promise);
-
-// then function
-
-//d3.json(url).then(function(data){
-
-//    console.log(data);
-//    let dataName = data["names"];
-//    let dataSamples = data.samples;
-//    let dataOtuIds = data.samples.otu_ids;
-
-//    console.log(dataOtuIds);
-//});
